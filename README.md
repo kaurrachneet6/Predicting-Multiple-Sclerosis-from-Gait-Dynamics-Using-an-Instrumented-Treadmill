@@ -1,5 +1,6 @@
 # GML4MS (Gait data-based machine learning (ML) framework for MS prediction)
 ## Predicting Multiple Sclerosis from Gait Dynamics Using an Instrumented Treadmill - A Machine Learning Approach
+This is the code for the paper R. Kaur, Z. Chen, R. Motl, M. E. Hernandez and R. Sowers, "Predicting Multiple Sclerosis from Gait Dynamics Using an Instrumented Treadmill – A Machine Learning Approach," in IEEE Transactions on Biomedical Engineering, doi: 10.1109/TBME.2020.3048142., https://ieeexplore.ieee.org/document/9311191
 
 ### Authors:
 * Rachneet Kaur, Department of Industrial and Enterprise Systems Engineering at the University of Illinois at Urbana-Champaign, rk4@illinois.edu, https://kaurrachneet6.github.io/
@@ -20,6 +21,7 @@
 **Top:** Task generalization model, trained on trial W and tested on trial WT. 
 **Bottom:** Subject generalization design trained on both trials of sampled subjects and validated on withheld subjects. Healthy older adults (HOA) and PwMS are depicted in shades of green and red, respectively. The indices 1, 2, 3, ... along with HOA and PwMS are used as a reference for dummy subjects identifiers.
 
+### Dependencies
 
 ### Code structure:
 #### Data Preperation 

@@ -22,6 +22,8 @@ This is the code for the paper R. Kaur, Z. Chen, R. Motl, M. E. Hernandez and R.
 **Bottom:** Subject generalization design trained on both trials of sampled subjects and validated on withheld subjects. Healthy older adults (HOA) and PwMS are depicted in shades of green and red, respectively. The indices 1, 2, 3, ... along with HOA and PwMS are used as a reference for dummy subjects identifiers.
 
 ### Dependencies
+* Python 3.6
+* The versions of Python packages can be found in the file requirements.txt
 
 ### Code structure:
 #### Data Preperation 
